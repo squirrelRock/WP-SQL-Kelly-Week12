@@ -25,6 +25,7 @@ export default function Home({ allDataMain }) {
                     </a>
                 ))}
             </div>
+            
         </Layout>
     );
 }
